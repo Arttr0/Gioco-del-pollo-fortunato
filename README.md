@@ -12,9 +12,9 @@
 
 ## 📸 Screenshots
 
-| ![Main Menu](screenshots/MainMenu.png) | ![Pause](screenshots/Pause.png) | ![Levels](screenshots/Levels.png) |
+| ![Main Menu](screenshots/MainMenu.jpg) | ![Pause](screenshots/Pause.jpg) | ![Levels](screenshots/Levels.jpg) |
 |-----------------------------------------|---------------------------------|-----------------------------------|
-| ![Achievements](screenshots/Achievements.png) | ![Cat](screenshots/Cat.png) | ![Hunan](screenshots/Hunan.png) |
+| ![Achievements](screenshots/Achievements.jpg) | ![Cat](screenshots/Cat.jpg) | ![Human](screenshots/Human.jpg) |
 
 ---
 
